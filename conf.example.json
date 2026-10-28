@@ -1,0 +1,5 @@
+{
+  "apiKey": "VOTRE_CLE_API_OPENWEATHERMAP",
+  "defaultCity": "Paris",
+  "units": "metric"
+}
