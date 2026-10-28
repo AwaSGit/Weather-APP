@@ -72,5 +72,9 @@ Installez l'extension **Live Server**, ouvrez le dossier du projet dans VS Code,
 - Vérifiez que le serveur local est lancé et que `conf.json` est accessible.
 - Vérifiez que la clé OpenWeatherMap est valide et que la connexion Internet fonctionne.
 - Les photos de fond sont hébergées sur Unsplash ; leur chargement nécessite également une connexion Internet.(Lol)
+  Aperçu:
+
+  <img width="1831" height="825" alt="image_2026-10-28_190550100" src="https://github.com/user-attachments/assets/4cb70460-03e2-4502-9c3b-b05327857371" />
+
 
 Enjoy
